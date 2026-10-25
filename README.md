@@ -1,71 +1,75 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.gif" alt="thecatthatflies: make it fly. an ascii cat with wings, flapping" width="100%" />
+</p>
 
-# aiyan chowdhury
+<p align="center">
+  hey, i'm <b>aiyan</b>. independent developer in maryland building privacy-first tools, from chrome extensions and mac apps to self-hosted servers. shipping under <a href="https://ambytion.net">ambytion</a>.
+</p>
 
-independent developer in maryland building privacy-first tools, from chrome extensions and mac apps to self-hosted servers. shipping under [ambytion](https://ambytion.net).
+<p align="center">
+  <img src="assets/divider.png" alt="" width="100%" />
+</p>
 
-[portfolio](https://aiyan.tech) · [ambytion](https://ambytion.net) · [email](mailto:hello@aiyan.tech) · [discord dms](https://discord.com/users/1149437523785957508)
+<p align="center">
+  <img src="assets/h-building.png" alt="what i'm building" width="70%" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://getpanels.app"><img width="32%" alt="panels: notes, terminals and web pages in one tiling window" src="assets/card-panels.png" /></a>
+  <a href="https://minijs.ambytion.net"><img width="32%" alt="minijs: make 2d games by writing plain sentences" src="assets/card-minijs.png" /></a>
+  <a href="https://unboxx.aiyan.tech"><img width="32%" alt="unboxx: see where a link really goes before you click it" src="assets/card-unboxx.png" /></a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/ambytionhq/cleanly"><img width="32%" alt="cleanly: a macos cli that sorts folders and undoes anything" src="assets/card-cleanly.png" /></a>
+  <a href="https://ambytion.net"><img width="32%" alt="ambytion: private, native, respectful software" src="assets/card-ambytion.png" /></a>
+  <a href="https://www.kaggle.com/competitions/name-that-llm/"><img width="32%" alt="name-that-llm: competing on kaggle since october 2026" src="assets/card-kaggle.png" /></a>
+</p>
 
-## what i'm building
+<p align="center">
+  <img src="assets/divider.png" alt="" width="100%" />
+</p>
 
-private, native, respectful software. small on purpose, no accounts, no analytics.
+<p align="center">
+  <img src="assets/h-stack.png" alt="stack" width="70%" />
+</p>
 
-### [panels](https://getpanels.app)
+<p align="center">
+  <img src="assets/stack.png" alt="typescript, javascript, react, vite, node.js, express, electron, go, rust, swift, python, html, css, framer motion, chrome extensions, macos, ios, homebrew, git, cloudflare, docker, debian, linux, jellyfin, ollama, blender, square api, casaos, self-hosting, local ai, rest apis, 3d animation" width="100%" />
+</p>
 
-a free, open-source macos workspace. notes, real terminals, web pages, tasks and a focus timer, tiled as resizable panels in one window. local-first. [source](https://github.com/thecatthatflies/panels)
+<p align="center">
+  <img src="assets/divider.png" alt="" width="100%" />
+</p>
 
-[![panels with notes, tasks and a focus timer side by side](https://www.getpanels.app/img/shot-granite.jpg)](https://getpanels.app)
+<p align="center">
+  <img src="assets/h-github.png" alt="on github" width="70%" />
+</p>
 
-### [minijs](https://minijs.ambytion.net)
+<p align="center">
+  <img width="49%" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=thecatthatflies&show_icons=true&hide_rank=true&bg_color=191c18&title_color=bbcea8&text_color=edf0e8&icon_color=C8FF2E&border_color=3c4437&border_radius=28" />
+  <img width="49%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecatthatflies&layout=compact&bg_color=191c18&title_color=bbcea8&text_color=edf0e8&border_color=3c4437&border_radius=28" />
+</p>
 
-a 2d game engine where you make games by writing plain sentences instead of code. runs in the browser. [source](https://github.com/ambytionhq/minijs)
+<p align="center">
+  <img src="assets/divider.png" alt="" width="100%" />
+</p>
 
-[![minijs studio with a game open](https://minijs.ambytion.net/shots/studio-workspace-dark.webp)](https://minijs.ambytion.net)
+<p align="center">
+  <img src="assets/h-touch.png" alt="get in touch" width="70%" />
+</p>
 
-### [unboxx](https://unboxx.aiyan.tech)
+<p align="center">
+  <a href="https://discord.com/users/1149437523785957508"><img width="49%" alt="message me on discord" src="assets/btn-discord.png" /></a>
+  <a href="mailto:hello@aiyan.tech"><img width="49%" alt="say hi: hello@aiyan.tech" src="assets/btn-email.png" /></a>
+</p>
 
-a chrome extension that shows where a link really goes before you click it. strips 250+ tracking parameters and flags risky destinations. no servers. [source](https://github.com/thecatthatflies/unboxx)
+<p align="center">
+  <a href="https://aiyan.tech"><img width="32%" alt="portfolio: aiyan.tech" src="assets/pill-portfolio.png" /></a>
+  <a href="https://ambytion.net"><img width="32%" alt="ambytion: ambytion.net" src="assets/pill-ambytion.png" /></a>
+  <a href="https://www.kaggle.com/competitions/name-that-llm/"><img width="32%" alt="kaggle: name-that-llm" src="assets/pill-kaggle.png" /></a>
+</p>
 
-[![unboxx settings](https://unboxx.aiyan.tech/img/settings-light.webp)](https://unboxx.aiyan.tech)
-
-### [cleanly](https://github.com/ambytionhq/cleanly)
-
-a macos command-line tool that organizes folders, finds duplicates and large files, previews every change, and can undo.
-
-```
-brew install thecatthatflies/tap/cleanly
-```
-
----
-
-## stack
-
-**languages** · typescript, javascript, swift, go, rust, python, html, css
-
-**apps & web** · react, vite, node.js, express, electron, framer motion, chrome extensions, rest apis, square api
-
-**platforms** · macos, ios, cli tools, homebrew
-
-**self-hosting & infra** · linux, debian, docker, cloudflare, cloudflare tunnels, casaos, jellyfin
-
-**ai & creative** · local ai, ollama, blender, 3d animation
-
-**tools** · git
-
----
-
-## lately
-
-- competing on kaggle: [name-that-llm](https://www.kaggle.com/competitions/name-that-llm/), started october 2026.
-
----
-
-## get in touch
-
-[hello@aiyan.tech](mailto:hello@aiyan.tech) · legal: [legal@aiyan.tech](mailto:legal@aiyan.tech)
-
-prefer chat? [message me directly on discord](https://discord.com/users/1149437523785957508).
+<p align="center">
+  <sub>legal: <a href="mailto:legal@aiyan.tech">legal@aiyan.tech</a></sub>
+</p>
