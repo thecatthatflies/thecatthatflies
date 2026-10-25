@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  hey, i'm <b>aiyan</b>. independent developer in maryland building privacy-first tools, from chrome extensions and mac apps to self-hosted servers. shipping under <a href="https://ambytion.net">ambytion</a>.
+  hey, i'm <b>aiyan</b>. independent developer in maryland building privacy-first tools, from apps to self-hosted servers, data science competitions to bug and security bounties. shipping under <a href="https://ambytion.net">ambytion</a>.
 </p>
 
 <p align="center">
