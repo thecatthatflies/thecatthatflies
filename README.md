@@ -47,8 +47,10 @@
 </p>
 
 <p align="center">
-  <img width="49%" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=thecatthatflies&show_icons=true&hide_rank=true&bg_color=191c18&title_color=bbcea8&text_color=edf0e8&icon_color=C8FF2E&border_color=3c4437&border_radius=28" />
-  <img width="49%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecatthatflies&layout=compact&bg_color=191c18&title_color=bbcea8&text_color=edf0e8&border_color=3c4437&border_radius=28" />
+  <img width="100%" alt="contribution heatmap, last year" src="https://readmestats.aiyan.tech/api/heatmap" />
+  <img width="32%" alt="lifetime contributions" src="https://readmestats.aiyan.tech/api/totals" />
+  <img width="32%" alt="contribution streak" src="https://readmestats.aiyan.tech/api/streak" />
+  <img width="32%" alt="top languages" src="https://readmestats.aiyan.tech/api/languages" />
 </p>
 
 <p align="center">
